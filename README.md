@@ -13,7 +13,7 @@ This is a transnational data set which contains all the transactions occurring b
 
 2. What is the approach for developing a customized promotion strategy for each cluster, and how is it based on the understanding of the clusters mentioned above?
 
-How are the characteristics of customers in each segment/cluster?
+**How are the characteristics of customers in each segment/cluster?**
 
 **Cluster 0**: his cluster represents our top segment of users. They are recent and frequent buyers, with their most recent transaction occurring just a few days ago. Over the past six months, they have made 26 transactions. However, this segment comprises only a small portion, with just 66 users, accounting for 1.5 percent of our entire user base.
 
@@ -21,7 +21,7 @@ How are the characteristics of customers in each segment/cluster?
 
 **Cluster 2**: The casual segment of users falls under this cluster. They are regular customers, but with moderate transaction frequency and recency. Their most recent transaction took place within the last two months, and they made up to three transactions in the previous six months. This segment represents the largest portion of our user base, with 2908 users, accounting for 67 percent of all our users.
 
-What is the approach for developing a customized promotion strategy for each cluster, and how is it based on the understanding of the clusters mentioned above?
+**What is the approach for developing a customized promotion strategy for each cluster, and how is it based on the understanding of the clusters mentioned above?**
 
 **Top buyers**: Instead of overwhelming them with vouchers/promotions (which saves us money), we will optimize/leverage loyalty points to maintain their loyalty.
 
